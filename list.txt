@@ -1,2 +1,4 @@
-616C65637472616D656C6C
+red
+blue
+yellow
 
